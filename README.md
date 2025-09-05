@@ -23,10 +23,9 @@
 
 
 
-<p align="center">
-  <img src="<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=139&color=ffe4ec&section=footer&descAlign=60&descAlignY=60" />
+
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=ffe4ec&section=footer&text=Obrigado+por+visitar+meu+perfil+%F0%9F%9A%80&fontColor=000000&descAlign=50&descAlignY=50&width=1600" alt="Footer" />
 </p>
-" />
-</p>
+
 
