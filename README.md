@@ -18,3 +18,9 @@
 </p>
 
 
+
+
+
+
+
+https://capsule-render.vercel.app/api?type=waving&height=139&color=ffe4ec&section=footer&descAlign=60&descAlignY=60
