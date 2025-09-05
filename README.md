@@ -14,7 +14,7 @@
 </picture>
 
 <p align="center">
-  <img src="[https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fnisouzaf&s=32&c=ffa3dd&bg=00000000&no=4&ff=digi&tb=visits%3A+&ta=" alt="visits]">
+  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fnisouzaf&s=32&c=ffa3dd&bg=00000000&no=4&ff=digi&tb=visits%3A+&ta=" alt="visits">
 </p>
 
 
@@ -24,6 +24,9 @@
 
 
 <p align="center">
+  <img src="<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=139&color=ffe4ec&section=footer&descAlign=60&descAlignY=60" />
+</p>
+" />
 </p>
 
