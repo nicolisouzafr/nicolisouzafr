@@ -8,5 +8,6 @@
 
 <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fnisouzaf&s=40&c=ffa3d4&bg=00000000&no=4&ff=digi&tb=&ta=" alt="visits">
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=300&duration=2500&pause=1000&color=F779CD&width=435&lines=Ol%C3%A1%2C+meu+nome+Nicoli!" alt="Typing SVG" /></a>
 
 
