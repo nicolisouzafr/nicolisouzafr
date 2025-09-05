@@ -7,6 +7,6 @@
 </picture>
 
 <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fnisouzaf&s=40&c=ffa3d4&bg=00000000&no=3&ff=digi&tb=&ta=" alt="visits">
-https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fnisouzaf&s=40&c=ffa3d4&bg=00000000&no=3&ff=digi&tb=&ta=
+
 
 
