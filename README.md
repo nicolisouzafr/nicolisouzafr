@@ -14,15 +14,12 @@
 </picture>
 
 
+<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fnisouzaf&s=32&c=ffa3dd&bg=00000000&no=4&ff=digi&tb=visits%3A+&ta=" alt="visits">
 
 
 
 
 
 
-
- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=ffe4ec&section=footer&text=Obrigado+por+visitar+meu+perfil+%F0%9F%9A%80&fontColor=000000&descAlign=50&descAlignY=50&width=1600" alt="Footer" />
-</p>
-
+ 
 
