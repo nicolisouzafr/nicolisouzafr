@@ -14,7 +14,7 @@
 </picture>
 
 
-<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fnisouzaf&s=32&c=ffa3dd&bg=00000000&no=4&ff=digi&tb=visits%3A+&ta=" alt="visits">
+<img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fnisouzaf&s=32&c=ffa3dd&bg=00000000&no=4&ff=digi&tb=visits%3A+&ta=" alt="visits">
 
 
 
