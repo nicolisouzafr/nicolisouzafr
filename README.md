@@ -20,8 +20,13 @@
 
 <picture align="center"> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicolisouzafr/nicolisouzafr/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicolisouzafr/nicolisouzafr/output/github-contribution-grid-snake.svg"> <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nicolisouzafr/nicolisouzafr/output/github-contribution-grid-snake.svg"> </picture>
 
+<div align="center">
 
+  
+[![Linkedln](https://img.shields.io/badge/Linkedln-000000?style=for-the-badge&logo=Linkedln&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnicoli-de-souza-ferreira-25383523b%2F)
 
+  
+  </div>
 
 
 
