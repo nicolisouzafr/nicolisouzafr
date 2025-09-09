@@ -22,15 +22,7 @@
 
 
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicolisouzafr/nicolisouzafr/output/github-contribution-grid-snake-dark.svg?color_snake=ff69b4&color_dots=000000,000000,000000,000000,000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicolisouzafr/nicolisouzafr/output/github-contribution-grid-snake.svg?color_snake=ff69b4&color_dots=000000,000000,000000,000000,000000">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nicolisouzafr/nicolisouzafr/output/github-contribution-grid-snake.svg?color_snake=ff69b4&color_dots=000000,000000,000000,000000,000000">
-  </picture>
-</p>
-
-
+<picture align="center"> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicolisouzafr/nicolisouzafr/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicolisouzafr/nicolisouzafr/output/github-contribution-grid-snake.svg"> <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nicolisouzafr/nicolisouzafr/output/github-contribution-grid-snake.svg"> </picture>
 
 
 
