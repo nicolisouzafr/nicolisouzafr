@@ -24,7 +24,7 @@
 
   
 [![Linkedln](https://img.shields.io/badge/Linkedln-ff84c6?style=for-the-badge&logo=Linkedln&color=ff84c6&link=www.linkedin.com%2Fin%2Fnicoli-de-souza-ferreira-25383523b)
-
+[![Gmail](https://img.shields.io/badge/Gmail-ff84c6?style=for-the-badge&logo=Gmail&logoColor=FFFFFF&color=ff84c6&link=www.linkedin.com%2Fin%2Fnicoli-de-souza-ferreira-25383523b)
   
   </div>
 
