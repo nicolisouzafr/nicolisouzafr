@@ -12,21 +12,20 @@
 
 
 <div align="center">
-
-
-
-  <!-- GitHub Stats -->
   <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=nisouzaf&show_icons=true&count_private=true&rank_icon=github&theme=gotham&font=Iosevka"/>
   <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisouzaf&layout=compact&font=Iosevka&langs_count=16&theme=gotham"/>
-  
-  <br><br>
-
-  <!-- GitHub Profile Card -->
-  <img align="center" alt="Profile Card" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nisouzaf&theme=gotham"/>
-  
-  <br><br>
-
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=nisouzaf&show_icons=true&count_private=true&rank_icon=github&theme=omni&font=Iosevka"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisouzaf&layout=compact&font=Iosevka&langs_count=16&theme=omni"/>
+  <br>
+  <br>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nisouzaf&theme=gotham"/>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nisouzaf&theme=omni"/>
 </div>
+
+
+
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicolisouzafr/nicolisouzafr/output/github-contribution-grid-snake-dark.svg?color_snake=ff69b4&color_dots=ffd6eb,ff99cc,ff4da6,cc0066,99004d">
