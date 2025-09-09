@@ -13,8 +13,7 @@
 
 <div align="center">
 
-  <!-- Header opcional do Capsule Render -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=139&color=f99aaa&section=header&descAlign=100&descAlignY=100"/>
+
 
   <!-- GitHub Stats -->
   <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=nisouzaf&show_icons=true&count_private=true&rank_icon=github&theme=gotham&font=Iosevka"/>
@@ -26,9 +25,6 @@
   <img align="center" alt="Profile Card" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nisouzaf&theme=gotham"/>
   
   <br><br>
-
-  <!-- Visit Counter -->
-  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fnisouzaf&s=32&c=ffa3dd&bg=00000000&no=4&ff=digi&tb=visits%3A+&ta=" alt="visits">
 
 </div>
 
