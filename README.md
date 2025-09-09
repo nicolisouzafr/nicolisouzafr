@@ -11,6 +11,20 @@
 </p>
 
 
+<div align="center">
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=kamillyvm&show_icons=true&count_private=true&rank_icon=github&theme=gotham&font=Iosevka"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&font=Iosevka&langs_count=16&theme=gotham"/>
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=kamillyvm&show_icons=true&count_private=true&rank_icon=github&theme=omni&font=Iosevka"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&font=Iosevka&langs_count=16&theme=omni"/>
+  <br>
+  <br>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=gotham"/>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=omni"/>
+</div>
+
+<div align="center" style="display: inline_block"><br>
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicolisouzafr/nicolisouzafr/output/github-contribution-grid-snake-dark.svg?color_snake=ff69b4&color_dots=ffd6eb,ff99cc,ff4da6,cc0066,99004d">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicolisouzafr/nicolisouzafr/output/github-contribution-grid-snake.svg?color_snake=ff69b4&color_dots=ffd6eb,ff99cc,ff4da6,cc0066,99004d">
