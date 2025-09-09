@@ -23,7 +23,7 @@
 <div align="center">
 
   
-[![Linkedln](https://img.shields.io/badge/Linkedln-ffffff?style=for-the-badge&logo=Linkedln&link=www.linkedin.com%2Fin%2Fnicoli-de-souza-ferreira-25383523b)
+[![Linkedln](https://img.shields.io/badge/Linkedln-FFFFFF00?style=for-the-badge&logo=Linkedln&link=www.linkedin.com%2Fin%2Fnicoli-de-souza-ferreira-25383523b)
 
 
   
