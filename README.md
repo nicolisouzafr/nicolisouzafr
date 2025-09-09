@@ -10,11 +10,11 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=nisouzaf&show_icons=true&count_private=true&rank_icon=github&theme=omni&font=Iosevka"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisouzaf&layout=compact&font=Iosevka&langs_count=16&theme=omni"/>
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nisouzaf&show_icons=true&count_private=true&rank_icon=github&theme=omni&font=Iosevka"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisouzaf&layout=compact&langs_count=6&theme=omni"/>
+
   <br><br>
-  
+
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nisouzaf&theme=omni"/>
 
 </div>
