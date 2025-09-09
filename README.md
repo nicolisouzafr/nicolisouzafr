@@ -12,16 +12,25 @@
 
 
 <div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=kamillyvm&show_icons=true&count_private=true&rank_icon=github&theme=gotham&font=Iosevka"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&font=Iosevka&langs_count=16&theme=gotham"/>
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=kamillyvm&show_icons=true&count_private=true&rank_icon=github&theme=omni&font=Iosevka"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&font=Iosevka&langs_count=16&theme=omni"/>
-  <br>
-  <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=gotham"/>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=omni"/>
-</div>
 
+  <!-- Header opcional do Capsule Render -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=139&color=f99aaa&section=header&descAlign=100&descAlignY=100"/>
+
+  <!-- GitHub Stats -->
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=nisouzaf&show_icons=true&count_private=true&rank_icon=github&theme=gotham&font=Iosevka"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisouzaf&layout=compact&font=Iosevka&langs_count=16&theme=gotham"/>
+  
+  <br><br>
+
+  <!-- GitHub Profile Card -->
+  <img align="center" alt="Profile Card" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nisouzaf&theme=gotham"/>
+  
+  <br><br>
+
+  <!-- Visit Counter -->
+  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fnisouzaf&s=32&c=ffa3dd&bg=00000000&no=4&ff=digi&tb=visits%3A+&ta=" alt="visits">
+
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicolisouzafr/nicolisouzafr/output/github-contribution-grid-snake-dark.svg?color_snake=ff69b4&color_dots=ffd6eb,ff99cc,ff4da6,cc0066,99004d">
