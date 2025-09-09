@@ -28,6 +28,7 @@
 
 
 
-
  
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=119&color=ff84c6&section=footer&descAlign=100&descAlignY=100"/>
+</p>
