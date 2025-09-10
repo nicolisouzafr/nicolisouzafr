@@ -20,9 +20,7 @@
 
 <picture align="center"> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicolisouzafr/nicolisouzafr/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicolisouzafr/nicolisouzafr/output/github-contribution-grid-snake.svg"> <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nicolisouzafr/nicolisouzafr/output/github-contribution-grid-snake.svg"> </picture>
 
-<p align="center">
-[![Linkedln](https://img.shields.io/badge/Linkedln-ff84c6?style=for-the-badge&logo=Linkedln&color=ff84c6&link=www.linkedin.com%2Fin%2Fwww.linkedin.com/in/nicolisouzaf)
-</p>
+
 
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
