@@ -34,10 +34,12 @@
 <br>
 <br>
 
+
 <br><br>
-<div align="center" style="font-size: 20px; font-weight: bold; color: #ffffff;">
+<div align="center" style="font-size: 20px; font-weight: bold; color: #ffffff; background-color: #222222; padding: 10px 20px; border-radius: 8px; display: inline-block;">
   ♡ Entre em contato comigo:
 </div>
+
 
 
 <div align="center">
