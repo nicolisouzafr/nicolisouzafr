@@ -35,9 +35,6 @@
 <br>
 
 
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Arvo:wght@700&display=swap');
-</style>
 
 <div align="center" style="font-family: 'Arvo', serif; font-weight: 700; font-size: 20px; color: #ffffff; background-color: #222222; padding: 10px 20px; border-radius: 8px; display: inline-block;">
   ♡ Entre em contato comigo:
