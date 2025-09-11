@@ -39,6 +39,9 @@
   <a href="https://www.linkedin.com/in/nicolisouzaf" target="_blank">
     <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-ff84c6?style=for-the-badge&logo=LinkedIn" />
   </a>
+   <a href="mailto:nicolisouzafr@gmail.com">
+    <img alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-ff84c6?style=for-the-badge&logo=Gmail" />
+  </a>
 </div>
 
 <br>
