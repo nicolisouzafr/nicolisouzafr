@@ -32,13 +32,13 @@
 </div>
 
 <br>
-<br>
 
 
 
-<div align="center" style="font-family: 'Arvo', serif; font-weight: 700; font-size: 20px; color: #ffffff; background-color: #222222; padding: 10px 20px; border-radius: 8px; display: inline-block;">
+<p align="center" style="font-weight: 700; font-size: 20px; color: black;">
   ♡ Entre em contato comigo:
-</div>
+</p>
+
 
 
 <br>
