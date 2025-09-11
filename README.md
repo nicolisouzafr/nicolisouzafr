@@ -42,6 +42,9 @@
    <a href="mailto:nicolisouzafr@gmail.com">
     <img alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-ff84c6?style=for-the-badge&logo=Gmail" />
   </a>
+  <a href="https://discord.com/users/nickksr" target="_blank">
+    <img alt="Discord Badge" src="https://img.shields.io/badge/Discord-ff84c6?style=for-the-badge&logo=Discord" />
+  </a>
 </div>
 
 <br>
