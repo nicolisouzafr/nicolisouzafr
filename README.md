@@ -34,6 +34,11 @@
 <br>
 <br>
 
+<br><br>
+<div align="center" style="font-size: 20px; font-weight: bold; color: #ffffff;">
+  ♡ Entre em contato comigo:
+</div>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nicolisouzaf" target="_blank">
