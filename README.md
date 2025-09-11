@@ -35,12 +35,6 @@
 
 
 
-<p align="center" style="font-weight: 700; font-size: 20px; color: black;">
-  ♡ Entre em contato comigo:
-</p>
-
-
-
 <br>
 
 <div align="center">
