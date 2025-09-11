@@ -34,7 +34,11 @@
 <br>
 <br>
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Linkedln-ff84c6?style=for-the-badge&logo=Linkedln&link=in%2Fnicolisouzaf">
+<div align="center">
+<a href="https://www.linkedin.com/in/nicolisouzaf" target="_blank">
+  <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-ff58ae?style=for-the-badge&logo=LinkedIn" />
+</a>
+</div>
 
 
 <p align="center">
