@@ -34,12 +34,15 @@
 <br>
 <br>
 
+
 <div align="center">
-<a href="https://www.linkedin.com/in/nicolisouzaf" target="_blank">
-  <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-ff58ae?style=for-the-badge&logo=LinkedIn" />
-</a>
+  <a href="https://www.linkedin.com/in/nicolisouzaf" target="_blank">
+    <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-ff84c6?style=for-the-badge&logo=LinkedIn" />
+  </a>
 </div>
 
+<br>
+<br>
 
 <p align="center">
   <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fnisouzaf&s=32&c=ffa3dd&bg=00000000&no=4&ff=digi&tb=visits%3A+&ta=" alt="visits">
